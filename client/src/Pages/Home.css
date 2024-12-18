@@ -1,0 +1,26 @@
+.home{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    width: 76%;
+    height:86vh;
+    border-radius: 5px;
+    box-shadow: 0 0 5px #888;
+    margin: 10px;
+    position: fixed;
+    top: 70px;
+    left: 310px;
+    padding: 10px 0px;
+}
+.home h5{
+    font-weight: 700;
+    font-size: 30px;
+}
+.home h5 span{
+    font-weight: 500;
+}
+.home p{
+    font-size: 25px;
+}

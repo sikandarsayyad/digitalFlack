@@ -1,0 +1,50 @@
+.addForm{
+    width: 76%;
+    height:86vh;
+    border-radius: 5px;
+    box-shadow: 0 0 5px #888;
+    margin: 10px;
+    position: fixed;
+    top: 70px;
+    left: 310px;
+    padding: 20px 50px;
+}
+.addForm input{
+    border-radius: 5px;
+    margin: 20px;
+    width: 20%;
+    padding: 10px;
+}
+.addForm .buttonContainer{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    margin: 50px;
+  
+}
+.addForm button{
+    border-radius: 15px;
+    color: white;
+    padding: 5px 30px;
+    background-color: rgb(79, 16, 150);
+    margin-left: 50px;
+    cursor: pointer;
+}
+.addForm button:first-child{
+    background-color:  white;
+    color: black;
+}
+.addForm .producthead{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: auto;
+    box-shadow: 0 4px 6px -6px #222;
+}
+.addForm .producthead i{
+    margin: 0 10px;
+}
+
+.addForm input{
+    width: 250px;
+}
